@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 00a810aab889cb740a83cb46bed14864, type: 3}
+  m_Name: 716CFA66-84CB-4623-BC30-B3217470C83D
+  m_EditorClassIdentifier: 
+  objectName: Set_Room_2
+  id: 892780796
+  guid: 716CFA66-84CB-4623-BC30-B3217470C83D
+  IsInUserDefinedSoundBank: 1
