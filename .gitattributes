@@ -11,3 +11,5 @@
 *.psd filter=lfs diff=lfs merge=lfs -text
 *.mov filter=lfs diff=lfs merge=lfs -text
 Assets/Wwise/API/Runtime/Plugins/Mac/**/*.dSYM/** filter=lfs diff=lfs merge=lfs -text
+SubssionBuild.zip filter=lfs diff=lfs merge=lfs -text
+SubssionBuild.app.zip filter=lfs diff=lfs merge=lfs -text
